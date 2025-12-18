@@ -23,11 +23,11 @@ repository               : "dongshihao123/dongshihao123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "dongshihao.png"
+  name             : "Dong Shihao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Qingdao, Shandong, Chinia"
+  location         : "Qingdao, Chinia"
   employer         : "Shandong University of Science and Technology"
   uri              : # URL
   email            : "dongshihao@sdust.edu.cn" 
